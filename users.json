@@ -1,0 +1,14 @@
+{
+    "123": {
+        "nickname": "123",
+        "password": "123"
+    },
+    "admin": {
+        "nickname": "admin",
+        "password": "admin"
+    },
+    "lihua": {
+        "nickname": "lihua",
+        "password": "lihua"
+    }
+}

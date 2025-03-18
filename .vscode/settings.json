@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "qpushbutton": "cpp",
+        "qjsonobject": "cpp"
+    }
+}

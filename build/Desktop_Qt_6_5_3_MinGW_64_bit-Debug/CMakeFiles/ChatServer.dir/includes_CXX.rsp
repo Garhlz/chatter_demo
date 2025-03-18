@@ -1,0 +1,1 @@
+-I"C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ChatServer_autogen/include" -IC:/code_in_laptop/qt/chatter_demo/server -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/include -isystem "C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.5.3/mingw_64/include/QtNetwork -isystem C:/Qt/6.5.3/mingw_64/include/QtConcurrent

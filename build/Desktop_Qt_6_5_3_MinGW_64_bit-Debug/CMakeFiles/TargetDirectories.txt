@@ -1,0 +1,8 @@
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatClient.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatServer.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatClient_autogen_timestamp_deps.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatClient_autogen.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatServer_autogen_timestamp_deps.dir
+C:/code_in_laptop/qt/chatter_demo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/ChatServer_autogen.dir
