@@ -1,8 +1,0 @@
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatClient.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatServer.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/edit_cache.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/rebuild_cache.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatClient_autogen_timestamp_deps.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatClient_autogen.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatServer_autogen_timestamp_deps.dir
-C:/code_in_laptop/qt/chatter_demo/build/CMakeFiles/ChatServer_autogen.dir
